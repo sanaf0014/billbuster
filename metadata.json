@@ -1,0 +1,6 @@
+{
+  "name": "BillBuster",
+  "description": "AI-Powered Financial Guard - Receipt discrepancy detection, audit validation, and spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
